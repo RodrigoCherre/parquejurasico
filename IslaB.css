@@ -1,0 +1,315 @@
+body{
+    background:url(JP2.jpg);
+    background-repeat:repeat-y;
+    background-position:center;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.SITIO{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(4, 121, 82);
+    padding: 30px;
+}
+.CON{
+    color: black;
+    padding-right: 30px;
+}
+.CUADRO{
+    width: 550px;
+    height: 450px;
+}
+.sorA{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(154, 199, 5);
+    padding: 30px ;
+    margin-top: 50px;
+}
+.post{
+    width: 550px;
+    height: 450px;
+}
+.tex{
+    color: black;
+    padding-left: 30px;
+}
+.sorB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(12, 175, 61);
+    padding: 30px;
+    margin-top: 50px;
+}
+.lit{
+    color: black;
+    padding-right: 30px;
+}
+.pal{
+    width: 550px;
+    height: 450px;
+}
+.A{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    background-position:center;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.AAA{
+    width: 550px;
+    height: 450px;
+}
+.AA{
+    color: rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.B{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.BBB{
+    width: 550px;
+    height: 450px;
+}
+.BB{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.C{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.CCC{
+    width: 550px;
+    height: 450px;
+}
+.CC{
+    color:  rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.D{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.DDD{
+    width: 550px;
+    height: 450px;
+}
+.DD{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.E{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.EEE{
+    width: 550px;
+    height: 450px;
+}
+.EE{
+    color:  rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.F{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.FFF{
+    width: 550px;
+    height: 450px;
+}
+.FF{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.G{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.GGG{
+    width: 550px;
+    height: 450px;
+}
+.GG{
+    color:  rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.H{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.HHH{
+    width: 550px;
+    height: 450px;
+}
+.HH{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.J{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.JJJ{
+    width: 550px;
+    height: 450px;
+}
+.JJ{
+    color:  rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.K{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.KKK{
+    width: 550px;
+    height: 450px;
+}
+.KK{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.L{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.LLL{
+    width: 550px;
+    height: 450px;
+}
+.LL{
+    color:  rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.M{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.MMM{
+    width: 550px;
+    height: 450px;
+}
+.MM{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.N{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.NN{
+    width: 50px;
+    height: 150px;
+}
+.NN{
+    color:  rgb(251, 251, 251);
+    padding-right: 150px;
+}
+.Ñ{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.ÑÑÑ{
+    width: 550px;
+    height: 450px;
+}
+.ÑÑ{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
+.O{
+    display: flex;
+    justify-content: right;
+    align-items:center ;
+    background-color: #000000;
+    background-position:center;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.OOO{
+    width: 550px;
+    height: 450px;
+}
+.OO{
+    color: rgb(251, 251, 251);
+    padding-right: 300px;
+}
+.R{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #000000;
+    padding: 30px ;
+    margin-top: 50px;
+}
+.RRR{
+    width: 550px;
+    height: 450px;
+}
+.RR{
+    color:  rgb(251, 251, 251);
+    padding-left: 300px;
+}
