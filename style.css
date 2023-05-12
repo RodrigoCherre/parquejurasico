@@ -39,7 +39,7 @@ header{
     text-decoration: none;
 }
 .islaA:hover{
-    background: url(su.png);
+    background: url(.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
