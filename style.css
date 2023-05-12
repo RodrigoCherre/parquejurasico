@@ -33,13 +33,13 @@ header{
 }
 .islaA{
     display: inline-block;
-    background:url(ISLA\ JP1.jpg);
+    background:url(superman\(1\).jpg);
     color: #fff705;
     padding: 250px 250px;
     text-decoration: none;
 }
 .islaA:hover{
-    background: url(logotipo\ 2.png);
+    background: url(superman-black\(1\)).jpg
     background-size: cover;
     background-repeat: no-repeat;
 }
