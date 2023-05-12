@@ -39,7 +39,7 @@ header{
     text-decoration: none;
 }
 .islaA:hover{
-    background: url(.png);
+    background: url(superman-black.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
