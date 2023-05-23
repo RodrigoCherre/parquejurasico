@@ -99,3 +99,8 @@ header{
     background-color: #fff700;
     color: #000000;
 }
+b{
+    display: flex;
+    background-position: center;
+    background-attachment: fixed;
+}
